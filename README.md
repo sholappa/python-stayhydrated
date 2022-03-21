@@ -1,2 +1,2 @@
 # python-stayhydrated
-Notifier application which reminds user to drink water every 1 hour
+Notifier which reminds user to drink water once every hour

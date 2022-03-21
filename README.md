@@ -1,0 +1,2 @@
+# python-stayhydrated
+Notifier application 

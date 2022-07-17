@@ -5,9 +5,9 @@ from plyer import notification
 while(True):
     notification.notify(
         #title here
-        title = "Stay hydrated notifier",
+        title = "Stayhydrated notifier",
         
-        message = "Remember to drink water while working or gaming",
+        message = "Remember to drink water and take breaks ",
         #icon in .ico format
         app_icon = "bottle.ico",
     #stays for 25 seconds
